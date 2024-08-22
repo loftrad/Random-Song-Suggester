@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header a{
+    text-decoration: none;
+    color: beige;
+    font-size: 40px;
+}
+.left{
+    margin-left: 3em;
+}
+.right{
+    margin-right: 3em;
+}
+#global{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+#about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 600px){
+    header a{
+        font-size: 25px;
+    }
+    .left{
+        margin-left: 2em;
+    }
+    .right{
+        margin-right: 2em;
+    }
+}

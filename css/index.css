@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: beige;
+    font-size: 40px;
+}
+.left{
+    margin-left: 3em;
+}
+.right{
+    margin-right: 3em;
+}
+#global{
+    width: 100%;
+    height: 100vh;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+}
+#suggestion{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 93vh;
+}
+#songButton{
+    width: 120px;
+    height: 66px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: rgb(77, 210, 44);
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+#likeButton{
+    width: 86px;
+    height: 36px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    border-radius: 10%;
+    cursor: pointer;
+    background-color: rgb(226, 95, 95);
+    border: none;
+}
+
+@media (max-width: 600px){
+    a{
+        font-size: 25px;
+    }
+    .left{
+        margin-left: 2em;
+    }
+    .right{
+        margin-right: 2em;
+    }
+}
