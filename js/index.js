@@ -202,6 +202,106 @@ const songs = [
     {
         name: "The Poodle - Kabaret Sybarit",
         spotifyEmbed: "https://open.spotify.com/embed/track/5WrIDLlxjsEtur3cyZdjwN?utm_source=generator"
+    },
+    {
+        name: "Station Waggin - Pretty Balanced",
+        spotifyEmbed: "https://open.spotify.com/embed/track/0ZKumbInmGR4KooEtKkiSx?utm_source=generator"
+    },
+    {
+        name: "We Are Number One - Tardigrade Inferno",
+        spotifyEmbed: "https://open.spotify.com/embed/track/7lI6wXOAaxrxy4XtsndYRA?utm_source=generator"
+    },
+    {
+        name: "Bang Bang Bang Bang - Sohodolls",
+        spotifyEmbed: "https://open.spotify.com/embed/track/1MPMUZopRX9DFx3HXToTKG?utm_source=generator"
+    },
+    {
+        name: "I Threw Glass at My Friend's Eyes and Now I'm on Probation - Destroy Boys",
+        spotifyEmbed: "https://open.spotify.com/embed/track/5ot500QigZaa1tH5tQoR1C?utm_source=generator"
+    },
+    {
+        name: "Damage - Fit For Rivals",
+        spotifyEmbed: "https://open.spotify.com/embed/track/5AuzysaHMCMHvv6Ppyx9lI?utm_source=generator"
+    },
+    {
+        name: "Dearest (I'm so Sorry) - Picture Me Broken",
+        spotifyEmbed: "https://open.spotify.com/embed/track/5YKQzZ02Gr2BO7gzObDqCe?utm_source=generator"
+    },
+    {
+        name: "The Eagle Has Landed - Avatar",
+        spotifyEmbed: "https://open.spotify.com/embed/track/1gDRnCCl3s5Lr7rBFYVbRU?utm_source=generator"
+    },
+    {
+        name: "Celestial Revenge - Fangbanger",
+        spotifyEmbed: "https://open.spotify.com/embed/track/353ggzRIiwgjPaehvJgTTB?utm_source=generator"
+    },
+    {
+        name: "Insomnia (I Just Want To Sleep) - Gary Hoppus",
+        spotifyEmbed: "https://open.spotify.com/embed/track/4deGebyaf1JK1TLAlcHpI3?utm_source=generator"
+    },
+    {
+        name: "The Serenade Is Dead - Conflict",
+        spotifyEmbed: "https://open.spotify.com/embed/track/3EuBFYOmjI9ffCgOa5FAXQ?utm_source=generator"
+    },
+    {
+        name: "The Trouble With Public Places - Cadallaca",
+        spotifyEmbed: "https://open.spotify.com/embed/track/7oy6PTseJ2DYSJ0tahc0Jz?utm_source=generator"
+    },
+    {
+        name: "Melatonin - Pistacia",
+        spotifyEmbed: "https://open.spotify.com/embed/track/2gmRlNJnGzHO1ZRCBheChV?utm_source=generator"
+    },
+    {
+        name: "One by One - Bloody Dead And Sexy",
+        spotifyEmbed: "https://open.spotify.com/embed/track/36smnerHWXlSIyJ78N6yf7?utm_source=generator"
+    },
+    {
+        name: "She Said - The Jins",
+        spotifyEmbed: "https://open.spotify.com/embed/track/5xpnUdjwBuyW5iWrT1RGoZ?utm_source=generator"
+    },
+    {
+        name: "Vodka - Korpiklaani",
+        spotifyEmbed: "https://open.spotify.com/embed/track/2k6dU3c2IBotzynOyevHJx?utm_source=generator"
+    },
+    {
+        name: "Melody Of A Murder - Scarlett Rose",
+        spotifyEmbed: "https://open.spotify.com/embed/track/3kAQKHB9dV55rb6uoN12Kb?utm_source=generator"
+    },
+    {
+        name: "Reneducation - Okilly Dokilly",
+        spotifyEmbed: "https://open.spotify.com/embed/track/28c8nnP20S65NLygZLkhmU?utm_source=generator"
+    },
+    {
+        name: "5th Period Massacre - Leathermouth",
+        spotifyEmbed: "https://open.spotify.com/embed/track/2UWD81F0trS1BP1imwDBMv?utm_source=generator"
+    },
+    {
+        name: "Happy Days Cover - Abigail",
+        spotifyEmbed: "https://open.spotify.com/embed/track/788OBKSqnhRVa0UsQ7mKnu?utm_source=generator"
+    },
+    {
+        name: "God Complex - VIOLENT VIRA",
+        spotifyEmbed: "https://open.spotify.com/embed/track/7zoF1WCREeVmUgO9J9xlbf?utm_source=generator"
+    },
+    {
+        name: "Frankenstein - Rina Sawayama",
+        spotifyEmbed: "https://open.spotify.com/embed/track/4nYUJ36Qj9hIY9mKj8QZFF?utm_source=generator"
+    },
+    {
+        name: "Home - Steve Gabry",
+        spotifyEmbed: "https://open.spotify.com/embed/track/4mkINjwyCxuDUTbuUxCZ3k?utm_source=generator"
+    },
+    {
+        name: "Small Fruit Song - Al Stewart",
+        spotifyEmbed: "https://open.spotify.com/embed/track/7gjOMgn621hyOAMq4lmFBV?utm_source=generator"
+    },
+    {
+        name: "Ligea - Witching Hour",
+        spotifyEmbed: "https://open.spotify.com/embed/track/7Hd9eJC6inMa5pTOxRcIvH?utm_source=generator"
+    },
+    {
+        name: "It Don't Matter to Jesus - Emily Zuzik",
+        spotifyEmbed: "https://open.spotify.com/embed/track/5FvnHM5wixfpYcgQdbC5eG?utm_source=generator"
     }
 ];
 
